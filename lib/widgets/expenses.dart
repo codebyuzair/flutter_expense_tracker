@@ -75,7 +75,7 @@ class _ExpensesState extends State<Expenses> {
     }
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Internee Expense Tracker'),
+        title: const Text('Softnetix Expense Tracker'),
         actions: [
           IconButton(
             onPressed: _openAddExpenseOverlay,
